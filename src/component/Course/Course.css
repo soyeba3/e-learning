@@ -1,0 +1,15 @@
+.cart-container h4{
+    text-align: right;
+    margin-right: 100px;
+    padding-top: 10px;
+    margin-top: 0;
+}
+.cart-container h5{
+    text-align: right;
+    margin-right: 100px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+.cart-container{
+    background-color: darkcyan;
+}

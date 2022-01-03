@@ -1,0 +1,38 @@
+.course-card{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 1.5rem;
+    display: inline-flex;
+    flex-direction:row;
+    width: 260px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    overflow-x: hidden;
+    margin-left: 0px;
+    
+}
+.course-card{
+    margin-left: 8px;
+}
+.card-detail{
+    background-color: lightblue;
+    border: 1px solid blueviolet;
+    margin: 10px;
+    height: 350px;
+    border-radius: 2px;
+}
+
+.btn{
+    width: 100px;
+    background-color:crimson;
+    margin-left: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    height: 25px;
+}
+.without-btn{
+    height: 310px;
+}
+.without-btn h4,p{
+    margin-left: 10px;
+}
